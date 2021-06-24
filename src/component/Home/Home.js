@@ -18,7 +18,10 @@ const Home = () => {
         Sarah Dayan
       </div>
       <div class="text-gray-500">
-        Staff Engineer, Algolia
+        Staff Engineer, Algolia 
+      </div>
+      <div class="text-gray-500">
+        Staff Engineer, Algolia 
       </div>
     </figcaption>
   </div>
